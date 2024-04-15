@@ -4,6 +4,4 @@ Rapid Design of Experimental Protocols for High Catalytic Activity and Stability
 
 Python codes used in:
 
-"xxx"
-
-xxx and xx.
+"Machine-learning-assisted intelligent synthesis of metal-organic frameworks: Balancing the trade-off between structural defects and thermal stability"
